@@ -1,4 +1,4 @@
-FROM alpine:3.21.3
+FROM alpine:3.22.1
 MAINTAINER t.dettrick@uq.edu.au
 
 # Fake dmsetup, as device-mapper isn't compatible for static builds
